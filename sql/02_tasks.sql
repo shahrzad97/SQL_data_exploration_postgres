@@ -1,0 +1,15 @@
+-- Revenue counts only when orders.status = 'completed'
+
+-- 1) Total revenue YTD 2025 (2025-01-01 to 2025-10-27)
+-- 2) Monthly revenue for 2025 (YYYY-MM + revenue)
+-- 3) Top 5 products by revenue (all time)
+-- 4) Average Order Value (AOV) in 2025 (completed only)
+-- 5) Returning customer rate 2025:
+--    (#customers with >1 completed order in 2025) / (#customers with >=1 completed order in 2025)
+-- 6) Revenue by category (all time), high→low
+-- 7) Top product per category (all time) with window function (RANK/DENSE_RANK)
+-- 8) Top 10 customers by lifetime revenue
+-- 9) New vs returning revenue in 2025
+-- 10) 2025 % contribution by product (product revenue / total 2025 revenue)
+-- 11) Cumulative revenue coverage in 2025; smallest #products covering ≥80%
+-- 12) Median order value in 2025 (percentile_cont)

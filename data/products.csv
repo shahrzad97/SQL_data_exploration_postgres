@@ -1,0 +1,40 @@
+product_id,name,category,price
+1,Wireless Earbuds,Electronics,15.0
+2,Smartphone Case,Electronics,30.0
+3,USB-C Cable,Electronics,12.0
+4,Bluetooth Speaker,Electronics,45.0
+5,LED Monitor,Electronics,160.0
+6,Laptop Stand,Electronics,25.0
+7,Power Bank,Electronics,22.0
+8,Wireless Mouse,Electronics,18.0
+9,Ceramic Mug,Home,8.0
+10,Cotton Towels,Home,20.0
+11,LED Bulb Pack,Home,10.0
+12,Nonstick Pan,Home,28.0
+13,Aroma Diffuser,Home,25.0
+14,Vacuum Bags,Home,12.0
+15,Face Serum,Beauty,18.0
+16,Hand Cream,Beauty,7.0
+17,Shampoo,Beauty,9.0
+18,Conditioner,Beauty,9.0
+19,Sunscreen SPF50,Beauty,14.0
+20,Lip Balm,Beauty,4.0
+21,Yoga Mat,Sports,20.0
+22,Dumbbells 5kg,Sports,35.0
+23,Skipping Rope,Sports,8.0
+24,Cycling Gloves,Sports,16.0
+25,Water Bottle,Sports,10.0
+26,Data Science 101,Books,21.0
+27,Italian Grammar A2,Books,18.0
+28,Clean Code,Books,30.0
+29,Algorithms Illustrated,Books,26.0
+30,SQL in Practice,Books,24.0
+31,Wooden Blocks,Toys,15.0
+32,Puzzle 1000pcs,Toys,22.0
+33,RC Car,Toys,40.0
+34,Plush Bear,Toys,12.0
+35,Arabica Coffee 1kg,Grocery,14.0
+36,Olive Oil 1L,Grocery,9.0
+37,Pasta Fusilli 1kg,Grocery,3.0
+38,Tomato Sauce 500g,Grocery,2.0
+39,Dark Chocolate 85%,Grocery,3.0
